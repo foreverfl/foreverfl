@@ -1,16 +1,27 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=6b32af&height=150&text=Back-End%20Developer&fontSize=30)
 
-<!--
-**foreverfl/foreverfl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Hit](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdding94&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false)
 
-Here are some ideas to get you started:
+## About Me
+Hello, I'm a full stack engineer. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I 
+
+
+### Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=foreverfl&show_icons=true&theme=radical)
+
+### 💼 Experience
+
+- **My Dictionary** [2021-08 - 2023-08]
+- **KT Aivle School** [2023-08 - 2024-01]
+
+### 🤝 Contact
+
+- 📧 **Email**: forevermfl@gmail.com
+
+### 📜 Blog
+
+### 📚 Team Project: [O :D](https://github.com/Aivle-4th-Team-16/OD)
+
+<!--END_SECTION:waka-->
