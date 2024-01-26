@@ -9,8 +9,8 @@ My skills also include basic data analysis, and I am capable of using pre-built 
 
 I'm passionate about creating web and app applications that have a positive impact on humanity and bring joy to people.
 
-### Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=foreverfl&show_icons=true&theme=ambient_gradient)
+### 📗Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=foreverfl&show_icons=true&theme=prussian)
 
 ### 💼 Experience
 
