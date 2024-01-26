@@ -1,15 +1,16 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=6b32af&height=150&text=Back-End%20Developer&fontSize=30)
+![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=34cfe3&height=150&text=Full-Stack%20Developer&fontSize=30)
 
-![Hit](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdding94&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false)
+![Hit](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fforeverfl&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false)
 
 ## About Me
-Hello, I'm a full stack engineer. 
+Hello! I'm a full-stack engineer with a keen interest in both backend and frontend development, as well as infrastructure.
 
-I 
+My skills also include basic data analysis, and I am capable of using pre-built AI models from platforms such as Hugging Face and YOLO.
 
+I'm passionate about creating web and app applications that have a positive impact on humanity and bring joy to people.
 
 ### Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=foreverfl&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=foreverfl&show_icons=true&theme=ambient_gradient)
 
 ### 💼 Experience
 
@@ -23,5 +24,3 @@ I
 ### 📜 Blog
 
 ### 📚 Team Project: [O :D](https://github.com/Aivle-4th-Team-16/OD)
-
-<!--END_SECTION:waka-->
