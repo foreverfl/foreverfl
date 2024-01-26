@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=34cfe3&height=150&text=Full-Stack%20Developer&fontSize=30)
 
-![Hit](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fforeverfl&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fforeverfl&count_bg=%2334CFE3&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 
 ## About Me
 Hello! I'm a full-stack engineer with a keen interest in both backend and frontend development, as well as infrastructure.
