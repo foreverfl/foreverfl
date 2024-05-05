@@ -14,13 +14,14 @@ I'm passionate about creating web and app applications that have a positive impa
 
 ### 💼 Experience
 
-- **My Dictionary** [2021-08 - 2023-08]
-- **KT Aivle School** [2023-08 - 2024-01]
+- **Entrepreneur** [2021.08 ~ 2023.08]
+- **KT Aivle School** [2023.08 ~ 2024.01]
+- **KT cs** [2024.04 ~ now]
 
 ### 🤝 Contact
 
-- 📧 **Email**: forevermfl@gmail.com
+- 📧 **Email**: forever_fl@naver.com
 
-### 📜 Blog
+### 📜 [Blog](https://mogumogu.dev/)
 
-### 📚 Team Project: [O :D](https://github.com/Aivle-4th-Team-16/OD)
+### 📚 [Portfolio](https://foreverfl.github.io/web-portfolio/)
