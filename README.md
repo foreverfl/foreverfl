@@ -24,4 +24,4 @@ I'm passionate about creating web and app applications that have a positive impa
 
 ### 📜 [Blog](https://mogumogu.dev/)
 
-### 📚 [Portfolio](https://foreverfl.github.io/web-portfolio/)
+### 📚 [Portfolio](https://foreverfl.github.io/web-portfolio-v1/)
