@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=34cfe3&height=150&text=Full-Stack%20Developer&fontSize=30)
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fforeverfl&count_bg=%2334CFE3&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)
-
 ## About Me
 Hello! I'm a full-stack engineer with expertise in both backend and frontend development, as well as infrastructure management.  
 My technical skillset also includes fundamental data analysis, and I am experienced in utilizing pre-built AI models from platforms like Hugging Face and YOLO to create innovative solutions.
