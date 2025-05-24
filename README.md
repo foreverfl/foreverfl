@@ -13,7 +13,7 @@ Let's build a better, more open internet together!
 
 ### 💼 Experience
 
-- **Entrepreneur** [2021.08 ~ 2023.08]
+- **Entrepreneur** [2022.01 ~ 2023.08]
 - **KT Aivle School** [2023.08 ~ 2024.01]
 - **KT cs** [2024.04 ~ now]
 
