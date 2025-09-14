@@ -23,4 +23,4 @@ Let's build a better, more open internet together!
 
 ### 📜 [Blog](https://mogumogu.dev/)
 
-### 📚 [Portfolio](https://foreverfl.github.io/portfolio-v1/)
+### 📚 [Portfolio](https://foreverfl.github.io/portfolio-v2/)
